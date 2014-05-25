@@ -93,3 +93,6 @@ I joined chewing development to answer jserv call for developer at COSCUP 2012. 
 
 *   Apr., 2009 ~ Dec., 2010 Senior Engineer
 *   Oct., 2006 ~ Apr., 2009 Engineer
+
+# Update
+*   The latest version of this resume is in [here](https://github.com/czchen/czchen.github.io/blob/master/resume.md).
