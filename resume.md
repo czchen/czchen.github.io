@@ -14,12 +14,15 @@
 
 # Educational Background
 
+## Traditional
+
 *   Master's degree in Computer Science, National Tsing Hua University. Sep., 2004 ~ Jun., 2006.
 *   Bachelor's degree in Computer and Information Science, National Chiao Tung University. Sep., 2000 ~ Jun., 2004.
 
-# Certifications
+## Massive Open Online Course
 
-## Coursera
+### Coursera
+
 *   [Malicious Software and its Underground Economy: Two Sides to Every Story](http://czchen.info/mooc/Coursera%20malsoftware%202013.pdf)
 *   [Algorithms: Design and Analysis, Part 1](http://czchen.info/mooc/Coursera%20algo%202013.pdf)
 *   [Algorithms: Design and Analysis, Part 2](http://czchen.info/mooc/Coursera%20algo2%202013.pdf)
@@ -40,15 +43,16 @@
 
 ### Experience
 
-    *   Nov., 2013 ~ present, Maintainer
+*   Nov., 2013 ~ present, Maintainer
 
 ### Summary
 
-    I started to contribute to debian after answering [call for help from Osamu Aoki](TBD), who is one of the leader of package input method editor development group. At first, I only maintain chewing related packages since I am also chewing developer. By doing so, I got debian maintainer permission at [Mini Debian Conf 2013](https://wiki.debian.org/DebianTaiwan/MiniDebConf2013). After getting DM permission, I started to maintain other input method likes gcin / hime / libzhuyin, and package some new programs like cppman and libr3. With Kanru's advocate, I started to apply debian development after OSDC 2014.
+I started to contribute to debian after answering [call for help from Osamu Aoki](TBD), who is one of the leader of package input method editor development group. At first, I only maintain chewing related packages since I am also chewing developer. By doing so, I got debian maintainer permission at [Mini Debian Conf 2013](https://wiki.debian.org/DebianTaiwan/MiniDebConf2013). After getting DM permission, I started to maintain other input method likes gcin / hime / libzhuyin, and package some new programs like cppman and libr3. With Kanru's advocate, I started to apply debian development after OSDC 2014.
 
 ### Reference
-    *   [Debian New Member Front Desk](https://nm.debian.org/public/person/czchen)
-    *   [Packages overview for ChangZhuo Chen (陳昌倬)](http://qa.debian.org/developer.php?login=czchen@gmail.com)
+
+*   [Debian New Member Front Desk](https://nm.debian.org/public/person/czchen)
+*   [Packages overview for ChangZhuo Chen (陳昌倬)](http://qa.debian.org/developer.php?login=czchen@gmail.com)
 
 ## [Chewing Input Method (新酷音輸入法) Development](http://chewing.im/)
 
@@ -67,7 +71,7 @@ I joined chewing development to answer jserv call for developer at COSCUP 2012. 
 *   Implement dynamic programming based algorithm to enhance composition performance. The algorithm is around 800 times faster then previous brute force one.
 *   Use sqlite3 to store user phrase.
 *   Implement [new user phrase editor](https://github.com/chewing/chewing-editor) based in Qt5.
-*   Have a [talk](http://czchen.info/talks_joining_libchewing_development) about libchewing in COSCUP 2013.
+*   Have a [talk about libchewing](http://czchen.info/talks_joining_libchewing_development) in COSCUP 2013.
 
 ### Reference
 
