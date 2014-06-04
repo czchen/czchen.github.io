@@ -62,7 +62,7 @@ With Kanru's advocate, I applied debian development after OSDC 2014. The process
 
 ### Summary
 
-I has contributed to g0v projects since [g0v.tw hackathnn](http://g0v-tw.kktix.cc/events/g0v-hackath2n-taipei). The projects I focus on are laweasyread and kuansim. The main jobs for me in these projects are to enhance web cralwer, sanitize data, design and implement RESTful APIs, and setup test/CI environment.
+I has contributed to g0v projects since [g0v.tw hackath2n](http://g0v-tw.kktix.cc/events/g0v-hackath2n-taipei). The projects I focus on are laweasyread and kuansim. The main jobs for me in these projects are to enhance web cralwer, sanitize data, design and implement RESTful APIs, and setup test/CI environment.
 
 Beside laweasyread and kuansum, I also help to setup test environment likes [karma](https://github.com/karma-runner/karma) and [protractor](https://github.com/angular/protractor) for other g0v projects.
 
