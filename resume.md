@@ -45,7 +45,7 @@
 
 ### Summary
 
-I started to contribute to debian to answer [Invitation and roll call: Debian IME Packaging Team (Call for help)](https://lists.alioth.debian.org/pipermail/pkg-ime-devel/2013-June/002985.html) from Osamu Aoki, who is one of leader of Debian Input Method Editor Packaging Team. As a team member of IME team, I help to maintain Chinese related input method packages like libchewing, ibus-chewing, gcin, hime, .... By doing so, I got debian maintainer permission at [Mini Debian Conf 2013](https://wiki.debian.org/DebianTaiwan/MiniDebConf2013). Beside input method related packages, I also package some programs I used when they are not in debian yet.
+I has contributed to debian since answering [Invitation and roll call: Debian IME Packaging Team (Call for help)](https://lists.alioth.debian.org/pipermail/pkg-ime-devel/2013-June/002985.html) from Osamu Aoki, who is one of leader of Debian Input Method Editor Packaging Team. As a team member of IME team, I help to maintain Chinese related input method packages like libchewing, ibus-chewing, gcin, hime, .... By doing so, I got debian maintainer permission at [Mini Debian Conf 2013](https://wiki.debian.org/DebianTaiwan/MiniDebConf2013). Beside input method related packages, I also package some programs I used when they are not in debian yet.
 
 With Kanru's advocate, I applied debian development after OSDC 2014. The process does not finished yet.
 
@@ -53,6 +53,25 @@ With Kanru's advocate, I applied debian development after OSDC 2014. The process
 
 *   [Debian New Member Front Desk](https://nm.debian.org/public/person/czchen)
 *   [Packages overview for ChangZhuo Chen (陳昌倬)](http://qa.debian.org/developer.php?login=czchen@gmail.com)
+
+## [g0v](http://g0v.tw/)
+
+### Experience
+
+*   Mar., 2013 ~ present, Contributor
+
+### Summary
+
+I has contributed to g0v projects since [g0v.tw hackathnn](http://g0v-tw.kktix.cc/events/g0v-hackath2n-taipei). The projects I focus on are laweasyread and kuansim. The main jobs for me in these projects are to enhance web cralwer, sanitize data, design and implement RESTful APIs, and setup test/CI environment.
+
+Beside laweasyread and kuansum, I also help to setup test environment likes [karma](https://github.com/karma-runner/karma) and [protractor](https://github.com/angular/protractor) for other g0v projects.
+
+### Reference
+
+*   [laweasyread](https://github.com/g0v/laweasyread/commits?author=czchen)
+*   [laweasyread-data](https://github.com/g0v/laweasyread-data/commits?author=czchen)
+*   [kuansim-frontend](https://github.com/g0v/kuansim-frontend/commits?author=czchen)
+*   [kuansim-backend](https://github.com/g0v/kuansim-backend/commits?author=czchen)
 
 ## [Chewing Input Method (新酷音輸入法) Development](http://chewing.im/)
 
