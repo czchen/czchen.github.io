@@ -89,7 +89,7 @@ I joined chewing development to answer jserv call for developer at COSCUP 2012. 
 *   Cleanup system database and implement check mechanism to prevent incorrectly phrase slipping into system phrase database.
 *   Implement dynamic programming based algorithm to enhance composition performance. The algorithm is around 800 times faster then previous brute force one.
 *   Use sqlite3 to store user phrase.
-*   Implement [new user phrase editor](https://github.com/chewing/chewing-editor) based in Qt5.
+*   Implement [new user phrase editor](https://github.com/chewing/chewing-editor) based on Qt5.
 *   Have a [talk about libchewing](http://czchen.info/talks_joining_libchewing_development) in COSCUP 2013.
 
 ### Reference
