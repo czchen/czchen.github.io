@@ -137,6 +137,7 @@ I joined chewing development to answer jserv call for developer at COSCUP 2012. 
 ## Miscellaneous Open Source Projects
 
 I also contribute to the following open source projects:
+
 *   [antigen](https://github.com/zsh-users/antigen/commits?author=czchen)
     *   Antigen is a small set of functions that help you easily manage your shell (zsh) plugins.
 *   [autoconf](http://www.gnu.org/software/autoconf/)
