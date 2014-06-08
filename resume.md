@@ -175,6 +175,8 @@ I also contribute to the following open source projects:
     *   HIME Input Method Editor.
 *   [karma](https://github.com/karma-runner/karma/commits?author=czchen)
     *   A simple tool that allows you to execute JavaScript code in multiple real browsers.
+*   [libbbs](https://github.com/pcman-bbs/libbbs/commits?author=czchen)
+    *   A telnet bulletin board system (BBS) helper library.
 *   [libzhuyin](https://github.com/libzhuyin/libzhuyin/commits?author=czchen)
     *   Library to deal with zhuyin.
 *   [lxc](https://github.com/lxc/lxc/commits?author=czchen)
