@@ -68,10 +68,10 @@ Beside laweasyread and kuansum, I also help to setup test environment likes [kar
 
 ### Reference
 
-*   [laweasyread](https://github.com/g0v/laweasyread/commits?author=czchen)
-*   [laweasyread-data](https://github.com/g0v/laweasyread-data/commits?author=czchen)
-*   [kuansim-frontend](https://github.com/g0v/kuansim-frontend/commits?author=czchen)
-*   [kuansim-backend](https://github.com/g0v/kuansim-backend/commits?author=czchen)
+*   [laweasyread contribution](https://github.com/g0v/laweasyread/commits?author=czchen)
+*   [laweasyread-data contribution](https://github.com/g0v/laweasyread-data/commits?author=czchen)
+*   [kuansim-frontend contribution](https://github.com/g0v/kuansim-frontend/commits?author=czchen)
+*   [kuansim-backend contribution](https://github.com/g0v/kuansim-backend/commits?author=czchen)
 
 ## [Chewing Input Method (新酷音輸入法) Development](http://chewing.im/)
 
@@ -117,6 +117,7 @@ I joined chewing development to answer jserv call for developer at COSCUP 2012. 
 *   Improve regression test process so that it can reach 100% pass rate from 95% (approximately).
 *   Maintain testing tools.
 *   Integrate old test scripts into new automatic test framework (SCTM).
+    *   Automatic import test case from perl script to SCTM.
 
 #### Packer Solution Operation
 
