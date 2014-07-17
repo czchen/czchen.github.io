@@ -34,6 +34,7 @@
 *   [The Data Scientist’s Toolbox](http://czchen.info/mooc/Coursera%20datascitoolbox%202014.pdf)
 *   [R Programming](http://czchen.info/mooc/Coursera%20rprog%202014.pdf)
 *   [Getting and Cleaning Data](http://czchen.info/mooc/Coursera%20getdata%202014.pdf)
+*   [Functional Programming Principles in Scala](http://czchen.info/mooc/Coursera%20progfun%202014.pdf)
 
 # Working History
 
