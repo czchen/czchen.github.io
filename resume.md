@@ -82,7 +82,7 @@ Beside laweasyread and kuansum, I also help to setup test environment likes [kar
 
 ### Summary
 
-I joined chewing development to answer jserv call for developer at COSCUP 2012. My contributions for chewing are listed as following:
+I joined chewing development to answer jserv call for developer at [COSCUP 2012](http://coscup.org/2012/). My contributions for chewing are listed as following:
 
 *   Setup [ubuntu PPA](https://launchpad.net/~chewing) to provide latest libchewing to user.
 *   Integrate with coveralls.io to generate [coverage report](https://coveralls.io/r/chewing/libchewing) for every push.
@@ -91,7 +91,7 @@ I joined chewing development to answer jserv call for developer at COSCUP 2012. 
 *   Implement dynamic programming based algorithm to enhance composition performance. The algorithm is around 800 times faster then previous brute force one.
 *   Use sqlite3 to store user phrase.
 *   Implement [new user phrase editor](https://github.com/chewing/chewing-editor) based on Qt5.
-*   Have a [talk about libchewing](http://czchen.info/talks_joining_libchewing_development) in COSCUP 2013.
+*   Have a [talk about libchewing](http://czchen.info/talks_joining_libchewing_development) in [COSCUP 2013](http://coscup.org/2013/).
 
 ### Reference
 
