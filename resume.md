@@ -49,6 +49,9 @@ Beside laweasyread and kuansum, I also help to setup test environment likes [kar
 *   [laweasyread-data contribution](https://github.com/g0v/laweasyread-data/commits?author=czchen)
 *   [kuansim-frontend contribution](https://github.com/g0v/kuansim-frontend/commits?author=czchen)
 *   [kuansim-backend contribution](https://github.com/g0v/kuansim-backend/commits?author=czchen)
+*   [api.ly contribution](https://github.com/g0v/api.ly/commits?author=czchen)
+*   [ly.g0v.tw](https://github.com/g0v/ly.g0v.tw/commits?author=czchen)
+*   [twlyparser](https://github.com/g0v/twlyparser/commits?author=czchen)
 
 ## [Chewing Input Method (新酷音輸入法) Development](http://chewing.im/)
 
