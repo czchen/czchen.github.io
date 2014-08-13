@@ -12,30 +12,6 @@
     *   <http://tw.linkedin.com/in/changzhuo/>
 *   PGP Key fringprint: [EC9F 905D 866D BE46 A896  C827 BE0C 9242 03F4 552D](http://pgp.mit.edu:11371/pks/lookup?op=vindex&search=0xBE0C924203F4552D)
 
-# Educational Background
-
-## Traditional
-
-*   Master's degree in Computer Science, National Tsing Hua University. Sep., 2004 ~ Jun., 2006.
-*   Bachelor's degree in Computer and Information Science, National Chiao Tung University. Sep., 2000 ~ Jun., 2004.
-
-## Massive Open Online Course
-
-### Coursera
-
-*   [Malicious Software and its Underground Economy: Two Sides to Every Story](http://czchen.info/mooc/Coursera%20malsoftware%202013.pdf)
-*   [Algorithms: Design and Analysis, Part 1](http://czchen.info/mooc/Coursera%20algo%202013.pdf)
-*   [Algorithms: Design and Analysis, Part 2](http://czchen.info/mooc/Coursera%20algo2%202013.pdf)
-*   [Cryptography I](http://czchen.info/mooc/Coursera%20crypto%202013.pdf)
-*   [Automata](http://czchen.info/mooc/Coursera%20automata%202014.pdf)
-*   [Machine Learning](http://czchen.info/mooc/Coursera%20ml%202014.pdf)
-*   [Computing for Data Analysis](http://czchen.info/mooc/Coursera%20compdata%202014.pdf)
-*   [Social and Economic Networks: Models and Analysis](http://czchen.info/mooc/Coursera%20networksonline%202014.pdf)
-*   [The Data Scientist’s Toolbox](http://czchen.info/mooc/Coursera%20datascitoolbox%202014.pdf)
-*   [R Programming](http://czchen.info/mooc/Coursera%20rprog%202014.pdf)
-*   [Getting and Cleaning Data](http://czchen.info/mooc/Coursera%20getdata%202014.pdf)
-*   [Functional Programming Principles in Scala](http://czchen.info/mooc/Coursera%20progfun%202014.pdf)
-
 # Working History
 
 ## [Debian](http://www.debian.org/)
@@ -195,6 +171,30 @@ I also contribute to the following open source projects:
     *   R3 is an URL router library with high performance, thus, it's implemented in C. It compiles your route paths into a prefix trie.
 *   [vim](www.vim.org)
     *   A text editor.
+
+# Educational Background
+
+## Massive Open Online Course
+
+### Coursera
+
+*   [Malicious Software and its Underground Economy: Two Sides to Every Story](http://czchen.info/mooc/Coursera%20malsoftware%202013.pdf)
+*   [Algorithms: Design and Analysis, Part 1](http://czchen.info/mooc/Coursera%20algo%202013.pdf)
+*   [Algorithms: Design and Analysis, Part 2](http://czchen.info/mooc/Coursera%20algo2%202013.pdf)
+*   [Cryptography I](http://czchen.info/mooc/Coursera%20crypto%202013.pdf)
+*   [Automata](http://czchen.info/mooc/Coursera%20automata%202014.pdf)
+*   [Machine Learning](http://czchen.info/mooc/Coursera%20ml%202014.pdf)
+*   [Computing for Data Analysis](http://czchen.info/mooc/Coursera%20compdata%202014.pdf)
+*   [Social and Economic Networks: Models and Analysis](http://czchen.info/mooc/Coursera%20networksonline%202014.pdf)
+*   [The Data Scientist’s Toolbox](http://czchen.info/mooc/Coursera%20datascitoolbox%202014.pdf)
+*   [R Programming](http://czchen.info/mooc/Coursera%20rprog%202014.pdf)
+*   [Getting and Cleaning Data](http://czchen.info/mooc/Coursera%20getdata%202014.pdf)
+*   [Functional Programming Principles in Scala](http://czchen.info/mooc/Coursera%20progfun%202014.pdf)
+
+## Traditional
+
+*   Master's degree in Computer Science, National Tsing Hua University. Sep., 2004 ~ Jun., 2006.
+*   Bachelor's degree in Computer and Information Science, National Chiao Tung University. Sep., 2000 ~ Jun., 2004.
 
 # Update
 *   The latest version of this resume is in <http://czchen.info/resume.md>.
