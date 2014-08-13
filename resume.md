@@ -157,6 +157,8 @@ I also contribute to the following open source projects:
     *   A telnet bulletin board system (BBS) helper library.
 *   [libzhuyin](https://github.com/libzhuyin/libzhuyin/commits?author=czchen)
     *   Library to deal with zhuyin.
+*   [lilyterm](https://github.com/Tetralet/LilyTerm/commits?author=czchen)
+    *   A light and eazy-to-use terminal emulator for X.
 *   [lxc](https://github.com/lxc/lxc/commits?author=czchen)
     *   The linux containers, lxc, aims to use these new functionalities to provide an userspace container object which provides full resource isolation and resource control for an applications or a system.
 *   [origami-pdf](https://code.google.com/p/origami-pdf/)
