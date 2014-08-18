@@ -66,7 +66,7 @@ Beside laweasyread and kuansum, I also help to setup test environment likes [kar
 
 ### Summary
 
-I joined chewing development to answer jserv call for developer at [COSCUP 2012](http://coscup.org/2012/). My contributions for chewing are listed as following:
+I joined chewing development to answer [jserv](https://www.linkedin.com/in/job4jserv) call for developer at [COSCUP 2012](http://coscup.org/2012/). My contributions for chewing are listed as following:
 
 *   Setup [ubuntu PPA](https://launchpad.net/~chewing) to provide latest libchewing to user.
 *   Integrate with coveralls.io to generate [coverage report](https://coveralls.io/r/chewing/libchewing) for every push.
