@@ -201,6 +201,10 @@ I also contribute to the following open source projects:
 *   [Getting and Cleaning Data](http://czchen.info/mooc/Coursera%20getdata%202014.pdf)
 *   [Functional Programming Principles in Scala](http://czchen.info/mooc/Coursera%20progfun%202014.pdf)
 
+### edX
+
+*   [LFS101x: Introduction to Linux](http://czchen.info/mooc/LFS101x.pdf)
+
 ## Traditional
 
 *   Master's degree in Computer Science, National Tsing Hua University. Sep., 2004 ~ Jun., 2006.
