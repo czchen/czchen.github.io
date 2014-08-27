@@ -208,8 +208,8 @@ I also contribute to the following open source projects:
 
 ## Traditional
 
-*   Master's degree in Computer Science, National Tsing Hua University. Sep., 2004 ~ Jun., 2006.
-*   Bachelor's degree in Computer and Information Science, National Chiao Tung University. Sep., 2000 ~ Jun., 2004.
+*   Master's degree in [Computer Science](http://web.cs.nthu.edu.tw/), [National Tsing Hua University](http://www.nthu.edu.tw/). Sep., 2004 ~ Jun., 2006.
+*   Bachelor's degree in [Computer and Information Science](http://www.cis.nctu.edu.tw/), [National Chiao Tung University](http://www.nctu.edu.tw/). Sep., 2000 ~ Jun., 2004.
 
 # Update
 *   The latest version of this resume is in <http://czchen.info/resume.md>.
