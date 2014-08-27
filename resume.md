@@ -186,7 +186,7 @@ I also contribute to the following open source projects:
 
 ## Massive Open Online Course
 
-### Coursera
+### [Coursera](https://www.coursera.org/)
 
 *   [Malicious Software and its Underground Economy: Two Sides to Every Story](http://czchen.info/mooc/Coursera%20malsoftware%202013.pdf)
 *   [Algorithms: Design and Analysis, Part 1](http://czchen.info/mooc/Coursera%20algo%202013.pdf)
@@ -202,7 +202,7 @@ I also contribute to the following open source projects:
 *   [Functional Programming Principles in Scala](http://czchen.info/mooc/Coursera%20progfun%202014.pdf)
 *   [Software Defined Networking](http://czchen.info/mooc/Coursera%20sdn%202014.pdf)
 
-### edX
+### [edX](https://www.edx.org/)
 
 *   [LFS101x: Introduction to Linux](http://czchen.info/mooc/LFS101x.pdf)
 
