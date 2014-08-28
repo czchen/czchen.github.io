@@ -1,0 +1,152 @@
+%=======================================================================
+%
+%  OpenPGP key paper slip page for key 0x03F4552D
+%
+%-----------------------------------------------------------------------
+%
+% To generate a PDF file from this file:
+%   1. Install xelatex (if it is not installed already)
+%   2. Run the command
+%        xelatex paper_slips_03F4552D.tex
+%      in the directory of this file. This should give you the desired
+%        paper_slips_03F4552D.pdf
+%
+%-----------------------------------------------------------------------
+%
+% This file has been automatically generated via
+%   http://openpgp.quelltextlich.at/slip.html
+%
+% For feedback, error reports, etc, please contact christian@quelltextlich.at
+%
+%=======================================================================
+
+
+
+\documentclass[12pt]{article}
+\usepackage{xltxtra}
+%\setmainfont[Mapping=tex-text]{Linux Libertine O}
+
+
+
+
+% Selecting paper size -----------------------------------------------
+
+% The available paper sizes are A0, A1, A2, A3, A4, A5, Letter, Legal,
+% Tabloid. You can add an R to each of the sizes to indicate landscape
+% instead of the standard portrait orientation.
+\def\papersize{A4}
+
+
+
+
+% Single paper slip --------------------------------------------------
+
+% The \singleslip macro gets invoked again and again, until the page
+% is full. So if you want to make any modifications to the slip
+% itself, this \singleslip macro is the place to add them.
+
+\newcommand\singleslip{%
+\begin{tabular}{|c|}%
+\hline%
+%------------------------------------------------
+\multicolumn{1}{|l|}{ChangZhuo Chen (陳昌倬) \textless{}czchen@gmail.com\textgreater{}}\\
+\multicolumn{1}{|l|}{{[}jpeg image of size 4949]}\\
+\multicolumn{1}{|r|}{{\tiny\textsl{(4096 bits RSA; Key-ID:}} \texttt{03F4552D}{\tiny\textsl{; Created: 2013-07-29; Expires: 2015-01-01)}}}\\
+\hline%------------------------------------------
+\texttt{EC9F 905D 866D BE46 A896}\\
+\texttt{C827 BE0C 9242 03F4 552D}\\
+%------------------------------------------------
+\hline%
+\end{tabular}%
+}
+
+
+
+% Setting up the requested paper size --------------------------------
+
+% Checks \papersize agains #1 (resp. #1R). If they match, it sets the
+% paper width to #2 (resp. #3) and its height to #3 (resp. #2).
+\def\setpapersizeconditional#1#2#3{%
+\setpapersizeconditionalhelper{#1}{#2}{#3}%
+\setpapersizeconditionalhelper{#1R}{#3}{#2}%
+}
+
+% Checks \papersize agains #1. If they match, it sets the
+% paper width to #2 and its height to #3.
+\def\setpapersizeconditionalhelper#1#2#3{%
+% To be able to nicely match using \ifx, we encapsulate #1 in a macro.
+\def\setpapersizeconditionaltmp{#1}%
+\ifx\papersize\setpapersizeconditionaltmp%
+\setlength\paperheight{#3}%
+\setlength\paperwidth{#2}%
+\setlength{\pdfpageheight}{\paperheight}%
+\setlength{\pdfpagewidth}{\paperwidth}%
+\fi%
+}
+
+% The dimensions to check against
+\setpapersizeconditional{A0}{841mm}{1189mm}
+\setpapersizeconditional{A1}{594mm}{841mm}
+\setpapersizeconditional{A2}{420mm}{594mm}
+\setpapersizeconditional{A3}{297mm}{420mm}
+\setpapersizeconditional{A4}{210mm}{297mm}
+\setpapersizeconditional{A5}{148mm}{210mm}
+\setpapersizeconditional{Letter}{8.5in}{11in}
+\setpapersizeconditional{Legal}{8.5in}{14in}
+\setpapersizeconditional{Tabloid}{11in}{17in}
+
+
+
+
+% Page offsets / style -----------------------------------------------
+
+% Throw away all the default layout. 0.5" padding to top and
+% bottom. 0.25" padding to the left and right. No skips, to get a
+% dense tabular layout
+
+\pagestyle{empty}
+
+\voffset -0.5in
+\topmargin 0pt
+\headheight 0pt
+\headsep 0pt
+\textheight \paperheight
+\advance \textheight -1in
+
+\hoffset -0.75in
+\oddsidemargin 0pt
+\marginparwidth 0pt
+\marginparsep 0pt
+\footskip 0pt
+\textwidth \paperwidth
+\advance \textwidth -0.5in
+\marginparpush 0pt
+
+\parskip 0pt
+\parindent 0pt
+
+\baselineskip 0pt
+\lineskip 5pt
+
+
+
+
+% Laying out the slips -----------------------------------------------
+
+% To fill a single page with slips all over, it would be nice to
+% simply call \singleslip again and again. However, we'd need some
+% mechanism to determine when to stop (as we just want to fill a
+% /single/ page).
+% We use hfill to fill a single line with slips, and vfill to fill the
+% page with such lines of slips.
+\def\singlelinefill{\leaders\hbox{\raisebox{\dimexpr\depth\relax}{\singleslip}\hspace{5pt}}\hfill}
+\def\singleline{\hbox to \hsize{\singlelinefill}}
+\def\singlepage{\vbox to \vsize{\leaders\vbox{\singleline\vspace{5pt}}\vfill}}
+
+
+
+% Main document ------------------------------------------------------
+
+\begin{document}%
+\singlepage%
+\end{document}
