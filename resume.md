@@ -171,6 +171,8 @@ I also contribute to the following open source projects:
     *   The linux containers, lxc, aims to use these new functionalities to provide an userspace container object which provides full resource isolation and resource control for an applications or a system.
 *   [origami-pdf](https://code.google.com/p/origami-pdf/)
     *   Origami is a Ruby framework designed to parse, analyze, and forge PDF documents.
+*   [PCManFM-Qt](https://github.com/lxde/pcmanfm-qt/commits?author=czchen)
+    *   PCManFM-Qt is the Qt port of the LXDE file manager PCManFM.
 *   [PCManX](https://github.com/pcman-bbs/pcmanx/commits?author=czchen)
     *   PCManX is a free telnet BBS (Bulletin Board System) tool.
 *   [pgrest](https://github.com/pgrest/pgrest/commits?author=czchen)
