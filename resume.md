@@ -13,6 +13,19 @@
     *   <https://www.openhub.net/accounts/czchen?ref=Detailed>
 *   PGP Key fringprint: [EC9F 905D 866D BE46 A896  C827 BE0C 9242 03F4 552D](http://pgp.mit.edu:11371/pks/lookup?op=vindex&search=0xBE0C924203F4552D)
 
+# Skills
+
+*   Language:
+    *   Mandarin
+    *   English
+*   Programming Language:
+    *   Mastery of C, C++, python.
+    *   Familiar with Bash, Perl.
+    *   Experienced in Go, Haskell, JavaScript, LiveScript, Octave, R, Ruby, Scala.
+*   Operating System:
+    *   Familiar with Linux (especially debian-based distro) development tools, including autotools, binutils (readelf, objdump), clang (address sanitizer, c static analyzer), cmake, gcc (coverage report), gdb, git, valgrind.
+    *   Familiar with Windows development tools, including hiew, GFlags, ollydbg, process explorer, process monitor, windbg.
+
 # Working History
 
 ## [Debian](http://www.debian.org/)
