@@ -217,6 +217,7 @@ I also contribute to the following open source projects:
 *   [Getting and Cleaning Data](http://czchen.info/mooc/Coursera%20getdata%202014.pdf)
 *   [Functional Programming Principles in Scala](http://czchen.info/mooc/Coursera%20progfun%202014.pdf)
 *   [Software Defined Networking](http://czchen.info/mooc/Coursera%20sdn%202014.pdf)
+*   [The Hardware/Software Interface](http://czchen.info/mooc/Coursera%20hwswinterface%202014.pdf)
 
 ### [edX](https://www.edx.org/)
 
