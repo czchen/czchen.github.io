@@ -140,45 +140,25 @@ I joined chewing development to answer [jserv](https://www.linkedin.com/in/job4j
 I also contribute to the following open source projects:
 
 *   [antigen](https://github.com/zsh-users/antigen/commits?author=czchen)
-    *   Antigen is a small set of functions that help you easily manage your shell (zsh) plugins.
 *   [autoconf](http://www.gnu.org/software/autoconf/)
-    *   Autoconf is an extensible package of M4 macros that produce shell scripts to automatically configure software source code packages.
 *   [cpp-coveralls](https://github.com/eddyxu/cpp-coveralls/commits?author=czchen)
-    *   [coveralls.io](https://coveralls.io/) report uploader for C/C++ project.
 *   [cppman](https://github.com/aitjcize/cppman/commits?author=czchen)
-    *   C++ 98/11 manual pages for Linux, with source from cplusplus.com.
 *   [Firefix](http://www.mozilla.org/en-US/firefox/new/)
-    *   A web browser.
 *   [github-services](https://github.com/github/github-services/commits?author=czchen)
-    *   This repository contains code to integrate GitHub.com with third party services.
 *   [gulp-protractor](https://github.com/mllrsohn/gulp-protractor/commits?author=czchen)
-    *   Run your [angular protractor](https://github.com/angular/protractor) tests with [gulp](https://github.com/gulpjs/gulp).
 *   [hime](https://github.com/hime-ime/hime/commits?author=czchen)
-    *   HIME Input Method Editor.
 *   [karma](https://github.com/karma-runner/karma/commits?author=czchen)
-    *   A simple tool that allows you to execute JavaScript code in multiple real browsers.
 *   [libbbs](https://github.com/pcman-bbs/libbbs/commits?author=czchen)
-    *   A telnet bulletin board system (BBS) helper library.
 *   [libzhuyin](https://github.com/libzhuyin/libzhuyin/commits?author=czchen)
-    *   Library to deal with zhuyin.
 *   [lilyterm](https://github.com/Tetralet/LilyTerm/commits?author=czchen)
-    *   A light and eazy-to-use terminal emulator for X.
 *   [lxc](https://github.com/lxc/lxc/commits?author=czchen)
-    *   The linux containers, lxc, aims to use these new functionalities to provide an userspace container object which provides full resource isolation and resource control for an applications or a system.
 *   [origami-pdf](https://code.google.com/p/origami-pdf/)
-    *   Origami is a Ruby framework designed to parse, analyze, and forge PDF documents.
 *   [PCManFM-Qt](https://github.com/lxde/pcmanfm-qt/commits?author=czchen)
-    *   PCManFM-Qt is the Qt port of the LXDE file manager PCManFM.
 *   [PCManX](https://github.com/pcman-bbs/pcmanx/commits?author=czchen)
-    *   PCManX is a free telnet BBS (Bulletin Board System) tool.
 *   [pgrest](https://github.com/pgrest/pgrest/commits?author=czchen)
-    *   A RESTful API for PostgreSQL
 *   [protractor](https://github.com/angular/protractor/commits?author=czchen)
-    *   Protractor is an end to end test framework for AngularJS applications built on top of WebDriverJS.
 *   [r3](https://github.com/c9s/r3/commits?author=czchen)
-    *   R3 is an URL router library with high performance, thus, it's implemented in C. It compiles your route paths into a prefix trie.
 *   [vim](www.vim.org)
-    *   A text editor.
 
 # Educational Background
 
