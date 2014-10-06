@@ -62,7 +62,7 @@ I has contributed to g0v projects since [g0v.tw hackath2n](http://g0v-tw.kktix.c
 
 Beside laweasyread and kuansum, I also help to setup test environment likes [karma](https://github.com/karma-runner/karma) and [protractor](https://github.com/angular/protractor) for other g0v projects.
 
-### Reference
+### Projects
 
 *   [laweasyread contribution](https://github.com/g0v/laweasyread/commits?author=czchen)
 *   [laweasyread-data contribution](https://github.com/g0v/laweasyread-data/commits?author=czchen)
@@ -107,23 +107,13 @@ I joined chewing development to answer [jserv](https://www.linkedin.com/in/job4j
 
 ### Summary
 
-#### Virus scan engine test engineer
-
-*   Test virus scan engine (VSAPI) version 9.5, 9.6, 9.7, 9.73, 9.75, 9.8.
-*   Setup and maintain Linux i386 / amd64 / arm, android, HPUX platforms.
-    *   Use puppet to maintain Linux i386 / amd64 machines.
-    *   Build valgrind for android to perform memory usage test and profiling.
-*   Improve regression test process so that it can reach 100% pass rate from 95% (approximately).
-*   Maintain testing tools.
-*   Integrate old test scripts into new automatic test framework (SCTM).
-    *   Automatic import test case from perl script to SCTM.
-
-#### Packer Solution Operation
-
+*   Setup apt mirror and puppet server to maintain Linux machines in virus lab (no internet connection).
+*   Build valgrind for android to perform memory usage test and profiling.
+*   Integrate legacy test scripts into new automatic test framework (SCTM).
+    *   All test cases can be imported to SCTM by just two clicks.
 *   Design an automatic process to handle virus samples.
-    *   Revise database schema.
-    *   Use `vmrun` to control several VMs at once to increase scanning throughput.
-*   Generate scan report for developer for further analyzing.
+    *   Use `vm run` to control virtual machine for 6 parallel scanning
+    *   Turning database index to improvement 10% report generating speed.
 
 ## [Qisda Corporation](http://qisda.com/)
 
@@ -134,24 +124,16 @@ I joined chewing development to answer [jserv](https://www.linkedin.com/in/job4j
 
 ### Summary
 
-#### Solve SIM/USIM/R-UIM related issues mobile phone and module.
+*   Implement new SIM lock mechanism.
+    *   Uses TLV format with RSA + SHA1-HMAC as cryptographic algorithm.
+    *   Uses Google C++ testing framework for DLL testing.
 
-*   Implement new SIM lock mechanism to fulfill all requirements.
-*   Maintenance and develop auto testing tool for GCF/PTCRB.
-*   Solved 176 issues, held 17 presentations, wrote 14 documents.
+*   Develope new auto testing tool for GCF/PTCRB.
+    *   Supports up to 80% test cases from 20%
+    *   Can run without human involved.
 
-#### Professional Accomplishments
-
-*   [Protocol test machine] Improvement auto-testing tool for GCF/PTCRB in house testing.
-    *   Support up to 80% test cases from 20% (approximate).
-    *   Can test device without keypad and screen.
-    *   Run test machine 24 hours a day, instead of 12 hours.
-*   [Windows Phone 7 ODM] SIM lock mechanism
-    *   Original SIM lock mechanism is not flexible to adapt different lock requirements and it is hard to maintain.
-    *   Use Tag, Length, Value (TLV) format to store data
-    *   RSA as cryptographic algorithms
-    *   Auto-testing tool for device
-    *   Auto-testing tool for encoder DLL
+*   Solve a long live (3 projects: Motorola W7, BenQ M7, Motorola VE538) stack overflow bug in battery management.
+    *   Write a testing tool to reboot device per 40 seconds since it only happens in boot time.
 
 ## Miscellaneous Open Source Projects
 
