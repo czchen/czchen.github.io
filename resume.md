@@ -127,11 +127,9 @@ I joined chewing development to answer [jserv](https://www.linkedin.com/in/job4j
 *   Implement new SIM lock mechanism.
     *   Uses TLV format with RSA + SHA1-HMAC as cryptographic algorithm.
     *   Uses Google C++ testing framework for DLL testing.
-
 *   Develope new auto testing tool for GCF/PTCRB.
     *   Supports up to 80% test cases from 20%
     *   Can run without human involved.
-
 *   Solve a long live (3 projects: Motorola W7, BenQ M7, Motorola VE538) stack overflow bug in battery management.
     *   Write a testing tool to reboot device per 40 seconds since it only happens in boot time.
 
