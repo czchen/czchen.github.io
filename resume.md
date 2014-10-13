@@ -141,7 +141,7 @@ I also contribute to the following open source projects:
 *   [autoconf](http://www.gnu.org/software/autoconf/)
 *   [cpp-coveralls](https://github.com/eddyxu/cpp-coveralls/commits?author=czchen)
 *   [cppman](https://github.com/aitjcize/cppman/commits?author=czchen)
-*   [Firefix](http://www.mozilla.org/en-US/firefox/new/)
+*   [Firefix](https://github.com/mozilla/gecko-dev/commits?author=czchen)
 *   [github-services](https://github.com/github/github-services/commits?author=czchen)
 *   [gulp-protractor](https://github.com/mllrsohn/gulp-protractor/commits?author=czchen)
 *   [hime](https://github.com/hime-ime/hime/commits?author=czchen)
