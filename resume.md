@@ -179,6 +179,7 @@ I also contribute to the following open source projects:
 *   [Software Defined Networking](http://czchen.info/mooc/Coursera%20sdn%202014.pdf)
 *   [The Hardware/Software Interface](http://czchen.info/mooc/Coursera%20hwswinterface%202014.pdf)
 *   [Algorithmic Thinking](http://czchen.info/mooc/Coursera%20algorithmicthink%202014.pdf)
+*   [Data Analysis and Statistical Inference](http://czchen.info/mooc/Coursera%20statistics%202014.pdf)
 
 ### [edX](https://www.edx.org/)
 
