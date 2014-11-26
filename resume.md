@@ -156,6 +156,7 @@ I also contribute to the following open source projects:
 *   [pgrest](https://github.com/pgrest/pgrest/commits?author=czchen)
 *   [protractor](https://github.com/angular/protractor/commits?author=czchen)
 *   [r3](https://github.com/c9s/r3/commits?author=czchen)
+*   [snowplow-java-tracker](https://github.com/snowplow/snowplow-java-tracker/commits?author=czchen)
 *   [vim](www.vim.org)
 
 # Educational Background
