@@ -28,6 +28,15 @@
 
 # Working History
 
+## [Appier](http://www.appier.com/)
+
+### Experience
+
+*   Nov., 2014 ~ present, Senior Engineer
+
+### Summary
+
+
 ## [Debian](http://www.debian.org/)
 
 ### Experience
@@ -103,7 +112,7 @@ I joined chewing development to answer [jserv](https://www.linkedin.com/in/job4j
 
 ### Experience
 
-*   Dec., 2010 ~ present, Senior Engineer
+*   Dec., 2010 ~ Nov., 2014, Senior Engineer
 
 ### Summary
 
