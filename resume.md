@@ -190,6 +190,7 @@ I also contribute to the following open source projects:
 *   [The Hardware/Software Interface](http://czchen.info/mooc/Coursera%20hwswinterface%202014.pdf)
 *   [Algorithmic Thinking](http://czchen.info/mooc/Coursera%20algorithmicthink%202014.pdf)
 *   [Data Analysis and Statistical Inference](http://czchen.info/mooc/Coursera%20statistics%202014.pdf)
+*   [Software Security](https://www.coursera.org/course/softwaresec)
 
 ### [edX](https://www.edx.org/)
 
