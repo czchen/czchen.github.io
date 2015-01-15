@@ -195,6 +195,7 @@ I also contribute to the following open source projects:
 ### [edX](https://www.edx.org/)
 
 *   [LFS101x: Introduction to Linux](http://czchen.info/mooc/LFS101x.pdf)
+*   [FP101x: Introduction to Functional Programming](http://czchen.info/mooc/FP101x.pdf)
 
 ## Traditional
 
