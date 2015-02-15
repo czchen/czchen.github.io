@@ -1,4 +1,4 @@
-# MOOC Coursera List
+# MOOC Course List
 
 ## [Coursera](https://www.coursera.org/)
 
