@@ -172,30 +172,7 @@ I also contribute to the following open source projects:
 
 ## Massive Open Online Course
 
-### [Coursera](https://www.coursera.org/)
-
-*   [Malicious Software and its Underground Economy: Two Sides to Every Story](http://czchen.info/mooc/Coursera%20malsoftware%202013.pdf)
-*   [Algorithms: Design and Analysis, Part 1](http://czchen.info/mooc/Coursera%20algo%202013.pdf)
-*   [Algorithms: Design and Analysis, Part 2](http://czchen.info/mooc/Coursera%20algo2%202013.pdf)
-*   [Cryptography I](http://czchen.info/mooc/Coursera%20crypto%202013.pdf)
-*   [Automata](http://czchen.info/mooc/Coursera%20automata%202014.pdf)
-*   [Machine Learning](http://czchen.info/mooc/Coursera%20ml%202014.pdf)
-*   [Computing for Data Analysis](http://czchen.info/mooc/Coursera%20compdata%202014.pdf)
-*   [Social and Economic Networks: Models and Analysis](http://czchen.info/mooc/Coursera%20networksonline%202014.pdf)
-*   [The Data Scientist’s Toolbox](http://czchen.info/mooc/Coursera%20datascitoolbox%202014.pdf)
-*   [R Programming](http://czchen.info/mooc/Coursera%20rprog%202014.pdf)
-*   [Getting and Cleaning Data](http://czchen.info/mooc/Coursera%20getdata%202014.pdf)
-*   [Functional Programming Principles in Scala](http://czchen.info/mooc/Coursera%20progfun%202014.pdf)
-*   [Software Defined Networking](http://czchen.info/mooc/Coursera%20sdn%202014.pdf)
-*   [The Hardware/Software Interface](http://czchen.info/mooc/Coursera%20hwswinterface%202014.pdf)
-*   [Algorithmic Thinking](http://czchen.info/mooc/Coursera%20algorithmicthink%202014.pdf)
-*   [Data Analysis and Statistical Inference](http://czchen.info/mooc/Coursera%20statistics%202014.pdf)
-*   [Software Security](https://www.coursera.org/course/softwaresec)
-
-### [edX](https://www.edx.org/)
-
-*   [LFS101x: Introduction to Linux](http://czchen.info/mooc/LFS101x.pdf)
-*   [FP101x: Introduction to Functional Programming](http://czchen.info/mooc/FP101x.pdf)
+*   See <http://czchen.info/mooc/list.md> for course list.
 
 ## Traditional
 
