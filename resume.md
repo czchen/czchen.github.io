@@ -53,6 +53,7 @@ Currently, I help to maintain 8 packages in debian, and I have debian maintainer
 
 *   [Input Method Environment for Debian](https://alioth.debian.org/projects/pkg-ime)
 *   [Debian Fonts Task Force](http://pkg-fonts.alioth.debian.org/)
+*   [Collaborative packaging team for LXQt desktop environment](https://alioth.debian.org/projects/pkg-lxqt/)
 
 ### Reference
 
