@@ -34,6 +34,13 @@
 
 *   Nov., 2014 ~ present, Senior Engineer
 
+*   Implement and maintain retargeting tracking SDK on Android/iOS platform based on snowplow (http://snowplowanalytics.com/).
+*   Implement and maintain retargeting tracking service.
+    *   Collect data from web/mobile SDK.
+    *   Implement enrich process as Amazon Kinesis application.
+    *   Store data into Amazon Redshift database.
+*   Implement data dashboard based on Grafana for analysis.
+
 ### Summary
 
 
