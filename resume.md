@@ -152,35 +152,13 @@ I joined chewing development to answer [jserv](https://www.linkedin.com/in/job4j
 
 ## Miscellaneous Open Source Projects
 
-I also contribute to the following open source projects:
-
-*   [antigen](https://github.com/zsh-users/antigen/commits?author=czchen)
-*   [autoconf](http://www.gnu.org/software/autoconf/)
-*   [cpp-coveralls](https://github.com/eddyxu/cpp-coveralls/commits?author=czchen)
-*   [cppman](https://github.com/aitjcize/cppman/commits?author=czchen)
-*   [Firefix](https://github.com/mozilla/gecko-dev/commits?author=czchen)
-*   [github-services](https://github.com/github/github-services/commits?author=czchen)
-*   [gulp-protractor](https://github.com/mllrsohn/gulp-protractor/commits?author=czchen)
-*   [hime](https://github.com/hime-ime/hime/commits?author=czchen)
-*   [karma](https://github.com/karma-runner/karma/commits?author=czchen)
-*   [libbbs](https://github.com/pcman-bbs/libbbs/commits?author=czchen)
-*   [libzhuyin](https://github.com/libzhuyin/libzhuyin/commits?author=czchen)
-*   [lilyterm](https://github.com/Tetralet/LilyTerm/commits?author=czchen)
-*   [lxc](https://github.com/lxc/lxc/commits?author=czchen)
-*   [origami-pdf](https://code.google.com/p/origami-pdf/)
-*   [PCManFM-Qt](https://github.com/lxde/pcmanfm-qt/commits?author=czchen)
-*   [PCManX](https://github.com/pcman-bbs/pcmanx/commits?author=czchen)
-*   [pgrest](https://github.com/pgrest/pgrest/commits?author=czchen)
-*   [protractor](https://github.com/angular/protractor/commits?author=czchen)
-*   [r3](https://github.com/c9s/r3/commits?author=czchen)
-*   [snowplow-java-tracker](https://github.com/snowplow/snowplow-java-tracker/commits?author=czchen)
-*   [vim](www.vim.org)
+*  See <http://czchen.info/resume/open_source.md> for open source project list I has contributed.
 
 # Educational Background
 
 ## Massive Open Online Course
 
-*   See <http://czchen.info/mooc/list.md> for course list.
+*   See <http://czchen.info/resume/mooc.md> for course list I has participated.
 
 ## Traditional
 
