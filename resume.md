@@ -108,7 +108,7 @@ I joined chewing development to answer [jserv](https://www.linkedin.com/in/job4j
 *   Implement dynamic programming based algorithm to enhance composition performance. The algorithm is around 800 times faster then previous brute force one.
 *   Use sqlite3 to store user phrase.
 *   Implement [new user phrase editor](https://github.com/chewing/chewing-editor) based on Qt5.
-*   Have a [talk about libchewing](http://czchen.info/talks_joining_libchewing_development) in [COSCUP 2013](http://coscup.org/2013/).
+*   Have a [talk about libchewing](http://czchen.info/Joining_libchewing_Development/#/) in [COSCUP 2013](http://coscup.org/2013/).
 
 ### Reference
 
