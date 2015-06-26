@@ -6,6 +6,7 @@
 *   [chewing-editor](https://github.com/chewing/chewing-editor/commits?author=czchen)
 *   [cpp-coveralls](https://github.com/eddyxu/cpp-coveralls/commits?author=czchen)
 *   [cppman](https://github.com/aitjcize/cppman/commits?author=czchen)
+*   [fcitx-zhuyin](https://github.com/fcitx/fcitx-zhuyin/commits?author=czchen)
 *   [Firefix](https://github.com/mozilla/gecko-dev/commits?author=czchen)
 *   [github-services](https://github.com/github/github-services/commits?author=czchen)
 *   [gulp-protractor](https://github.com/mllrsohn/gulp-protractor/commits?author=czchen)
