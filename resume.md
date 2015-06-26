@@ -34,14 +34,20 @@
 
 *   Nov., 2014 ~ present, Senior Engineer
 
-*   Implement and maintain retargeting tracking SDK on Android/iOS platform based on snowplow (http://snowplowanalytics.com/).
-*   Implement and maintain retargeting tracking service.
-    *   Collect data from web/mobile SDK.
-    *   Implement enrich process as Amazon Kinesis application.
-    *   Store data into Amazon Redshift database.
-*   Implement data dashboard based on Grafana for analysis.
-
 ### Summary
+
+*   Implement and maintain retargeting tracking SDK on Android/iOS platform based on snowplow (http://snowplowanalytics.com/)
+*   Implement and maintain retargeting tracking service:
+    *   Collect data from web/mobile SDK
+    *   Implement enrich process as Amazon Kinesis application
+    *   Store data into Amazon Redshift database
+    *   Integrate with Spark
+*   Implement data dashboard based on Grafana for analysis
+*   Implement data synchronization with our customer:
+    *   Download datafeed and update to our database daily
+    *   Automatic generate datafeed if customer does not have it
+*   Implement retargeting UI to help campaign manager handling campaign:
+    *   Unified UI to setup audience on Doubleclick and Facebook
 
 
 ## [Debian](http://www.debian.org/)
@@ -54,18 +60,14 @@
 
 I has contributed to debian since answering [Invitation and roll call: Debian IME Packaging Team (Call for help)](https://lists.alioth.debian.org/pipermail/pkg-ime-devel/2013-June/002985.html) from Osamu Aoki, who is one of leader of Debian Input Method Environment Packaging Team. As a team member of IME team, I help to maintain Chinese related input method packages like libchewing, ibus-chewing, gcin, hime, .... By doing so, I got debian maintainer permission at [Mini Debian Conf 2013](https://wiki.debian.org/DebianTaiwan/MiniDebConf2013). Beside input method related packages, I also package some programs I used when they are not in debian yet.
 
-With [Kanru](https://nm.debian.org/public/person/koster)'s advocate, I applied debian developer after [OSDC 2014](http://www.osdc.tw/2014/). The process does not finished yet.
+With [Kanru](https://nm.debian.org/public/person/koster)'s advocate, I applied debian developer after [OSDC 2014](http://www.osdc.tw/2014/). [The process](https://nm.debian.org/public/person/czchen) does not finished yet.
 
-Currently, I help to maintain 8 packages in debian, and I have debian maintainer permission for 6 of them. I am also the team member of the following teams:
+The package I maintain are listed in [Packages overview for ChangZhuo Chen (陳昌倬)](https://qa.debian.org/developer.php?login=czchen@gmail.com). I am also the team member of the following teams:
 
 *   [Input Method Environment for Debian](https://alioth.debian.org/projects/pkg-ime)
 *   [Debian Fonts Task Force](http://pkg-fonts.alioth.debian.org/)
 *   [Collaborative packaging team for LXQt desktop environment](https://alioth.debian.org/projects/pkg-lxqt/)
 
-### Reference
-
-*   [Debian New Member Front Desk](https://nm.debian.org/public/person/czchen)
-*   [Packages overview for ChangZhuo Chen (陳昌倬)](http://qa.debian.org/developer.php?login=czchen@gmail.com)
 
 ## [g0v](http://g0v.tw/)
 
@@ -106,7 +108,7 @@ I joined chewing development to answer [jserv](https://www.linkedin.com/in/job4j
 *   Implement dynamic programming based algorithm to enhance composition performance. The algorithm is around 800 times faster then previous brute force one.
 *   Use sqlite3 to store user phrase.
 *   Implement [new user phrase editor](https://github.com/chewing/chewing-editor) based on Qt5.
-*   Have a [talk about libchewing](http://czchen.info/talks_joining_libchewing_development) in [COSCUP 2013](http://coscup.org/2013/).
+*   Have a [talk about libchewing](http://czchen.info/Joining_libchewing_Development/#/) in [COSCUP 2013](http://coscup.org/2013/).
 
 ### Reference
 
