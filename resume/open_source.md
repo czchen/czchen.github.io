@@ -25,6 +25,7 @@
 *   [lxc](https://github.com/lxc/lxc/commits?author=czchen)
 *   [ly.g0v.tw](https://github.com/g0v/ly.g0v.tw/commits?author=czchen)
 *   [origami-pdf](https://code.google.com/p/origami-pdf/)
+*   [pcman.js](https://github.com/pcman-bbs/pcman.js/commits?author=czchen)
 *   [PCManFM-Qt](https://github.com/lxde/pcmanfm-qt/commits?author=czchen)
 *   [PCManX](https://github.com/pcman-bbs/pcmanx/commits?author=czchen)
 *   [pgrest](https://github.com/pgrest/pgrest/commits?author=czchen)
