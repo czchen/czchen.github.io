@@ -4,6 +4,7 @@
 *   [api.ly](https://github.com/g0v/api.ly/commits?author=czchen)
 *   [autoconf](http://www.gnu.org/software/autoconf/)
 *   [chewing-editor](https://github.com/chewing/chewing-editor/commits?author=czchen)
+*   [cmst](https://github.com/andrew-bibb/cmst/commits?author=czchen)
 *   [cpp-coveralls](https://github.com/eddyxu/cpp-coveralls/commits?author=czchen)
 *   [cppman](https://github.com/aitjcize/cppman/commits?author=czchen)
 *   [fcitx-zhuyin](https://github.com/fcitx/fcitx-zhuyin/commits?author=czchen)
