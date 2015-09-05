@@ -11,6 +11,7 @@
     *   <https://github.com/czchen/>
     *   <http://tw.linkedin.com/in/changzhuo/>
     *   <https://www.openhub.net/accounts/czchen?ref=Detailed>
+    *   <https://mozillians.org/u/czchen/>
 *   PGP Key fringprint: [EC9F 905D 866D BE46 A896  C827 BE0C 9242 03F4 552D](http://pgp.mit.edu:11371/pks/lookup?op=vindex&search=0xBE0C924203F4552D)
 
 # Skills

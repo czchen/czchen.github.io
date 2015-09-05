@@ -24,6 +24,8 @@
 *   [lilyterm](https://github.com/Tetralet/LilyTerm/commits?author=czchen)
 *   [logrotate](https://fedorahosted.org/logrotate/)
 *   [lxc](https://github.com/lxc/lxc/commits?author=czchen)
+*   [lxqt-openssh-askpass](https://github.com/lxde/lxqt-openssh-askpass/commits?author=czchen)
+*   [lxqt-session](https://github.com/lxde/lxqt-session/commits?author=czchen)
 *   [ly.g0v.tw](https://github.com/g0v/ly.g0v.tw/commits?author=czchen)
 *   [origami-pdf](https://code.google.com/p/origami-pdf/)
 *   [pcman.js](https://github.com/pcman-bbs/pcman.js/commits?author=czchen)
