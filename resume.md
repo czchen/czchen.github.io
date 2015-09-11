@@ -37,7 +37,7 @@
 
 ### Summary
 
-*   Implement and maintain retargeting tracking SDK on Android/iOS platform based on snowplow (http://snowplowanalytics.com/)
+*   Implement and maintain retargeting tracking SDK on Android/iOS platform based on [snowplow](http://snowplowanalytics.com/).
 
 *   Implement and maintain retargeting tracking pipeline:
     *   SDK:
@@ -56,11 +56,11 @@
         *   Status dashboard based on [Grafana](http://grafana.org/) and [InfluxDB](https://influxdb.com/).
 
 *   Implement datafeed synchronization with our customer:
-    *   Download datafeed and update to our database daily
-    *   Automatic generate datafeed if customer does not have it
+    *   Download datafeed and update to our database daily.
+    *   Automatic generate datafeed if customer does not have it.
 
 *   Implement retargeting UI to help campaign manager handling campaign:
-    *   Unified UI to setup audience on Doubleclick and Facebook
+    *   Unified UI to setup audience on Doubleclick and Facebook.
 
 ## [Debian](http://www.debian.org/)
 
