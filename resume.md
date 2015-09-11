@@ -75,7 +75,7 @@ I has contributed to debian since answering [Invitation and roll call: Debian IM
 
 With [Kanru](https://nm.debian.org/public/person/koster)'s advocate, I applied debian developer after [OSDC 2014](http://www.osdc.tw/2014/). [The process](https://nm.debian.org/public/person/czchen) was finished and I become Debian Developer at Sep., 2015.
 
-The package I maintain are listed in [Packages overview for ChangZhuo Chen (陳昌倬)](https://qa.debian.org/developer.php?login=ChangZhuo+Chen). I am also the team member of the following teams:
+The package I maintain are listed in [Packages overview for ChangZhuo Chen (陳昌倬)](https://qa.debian.org/developer.php?login=czchen). I am also the team member of the following teams:
 
 *   [Input Method Environment for Debian](https://alioth.debian.org/projects/pkg-ime)
 *   [Debian Fonts Task Force](http://pkg-fonts.alioth.debian.org/)
