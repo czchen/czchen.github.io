@@ -38,36 +38,49 @@
 ### Summary
 
 *   Implement and maintain retargeting tracking SDK on Android/iOS platform based on snowplow (http://snowplowanalytics.com/)
-*   Implement and maintain retargeting tracking service:
-    *   Collect data from web/mobile SDK
-    *   Implement enrich process as Amazon Kinesis application
-    *   Store data into Amazon Redshift database
-    *   Integrate with Spark
-*   Implement data dashboard based on Grafana for analysis
-*   Implement data synchronization with our customer:
+
+*   Implement and maintain retargeting tracking pipeline:
+    *   SDK:
+        *   Implement and maintain retargeting tracking SDK on Android/iOS platform based on snowplow (http://snowplowanalytics.com/).
+        *   Maintain SDK developed by [leftshift](http://leftshift.io/).
+    *   Beacon:
+        *   Lightweight [openresty](https://openresty.org/) server to receive event from web and mobile tracking SDK.
+    *   Queue:
+        *   Send event to [Amazon Kinesis](https://aws.amazon.com/kinesis/) and [Apache Kafka](http://kafka.apache.org/) for ETL process.
+    *   ETL:
+        *   Use [Kinesis](https://aws.amazon.com/kinesis/) application and [Spark streaming](http://spark.apache.org/streaming/) to do ETL process and postback to other internal endpoint.
+    *   Storage:
+        *   Store data into [Amazon Redshift](https://aws.amazon.com/redshift/) for further analysis.
+        *   Store data as [Apache Parquet](https://parquet.apache.org/) in [Amazon S3](https://aws.amazon.com/s3/) for further analysis.
+    *   Monitor:
+        *   Status dashboard based on [Grafana](http://grafana.org/) and [InfluxDB](https://influxdb.com/).
+
+*   Implement datafeed synchronization with our customer:
     *   Download datafeed and update to our database daily
     *   Automatic generate datafeed if customer does not have it
+
 *   Implement retargeting UI to help campaign manager handling campaign:
     *   Unified UI to setup audience on Doubleclick and Facebook
-
 
 ## [Debian](http://www.debian.org/)
 
 ### Experience
 
-*   Nov., 2013 ~ present, Maintainer
+*   Nov., 2013 ~ Sep., 2015, Maintainer
+*   Sep., 2015 ~ present, Developer
 
 ### Summary
 
 I has contributed to debian since answering [Invitation and roll call: Debian IME Packaging Team (Call for help)](https://lists.alioth.debian.org/pipermail/pkg-ime-devel/2013-June/002985.html) from Osamu Aoki, who is one of leader of Debian Input Method Environment Packaging Team. As a team member of IME team, I help to maintain Chinese related input method packages like libchewing, ibus-chewing, gcin, hime, .... By doing so, I got debian maintainer permission at [Mini Debian Conf 2013](https://wiki.debian.org/DebianTaiwan/MiniDebConf2013). Beside input method related packages, I also package some programs I used when they are not in debian yet.
 
-With [Kanru](https://nm.debian.org/public/person/koster)'s advocate, I applied debian developer after [OSDC 2014](http://www.osdc.tw/2014/). [The process](https://nm.debian.org/public/person/czchen) does not finished yet.
+With [Kanru](https://nm.debian.org/public/person/koster)'s advocate, I applied debian developer after [OSDC 2014](http://www.osdc.tw/2014/). [The process](https://nm.debian.org/public/person/czchen) was finished and I become Debian Developer at Sep., 2015.
 
-The package I maintain are listed in [Packages overview for ChangZhuo Chen (陳昌倬)](https://qa.debian.org/developer.php?login=czchen@gmail.com). I am also the team member of the following teams:
+The package I maintain are listed in [Packages overview for ChangZhuo Chen (陳昌倬)](https://qa.debian.org/developer.php?login=ChangZhuo+Chen). I am also the team member of the following teams:
 
 *   [Input Method Environment for Debian](https://alioth.debian.org/projects/pkg-ime)
 *   [Debian Fonts Task Force](http://pkg-fonts.alioth.debian.org/)
 *   [Collaborative packaging team for LXQt desktop environment](https://alioth.debian.org/projects/pkg-lxqt/)
+*   [Debian Python Modules Team](https://alioth.debian.org/projects/python-modules)
 
 
 ## [g0v](http://g0v.tw/)
