@@ -24,7 +24,7 @@
     *   Familiar with Bash, Perl.
     *   Experienced in Go, Haskell, JavaScript, LiveScript, Octave, R, Ruby, Scala.
 *   Operating System:
-    *   Familiar with Linux (especially debian-based distro) development tools, including autotools, binutils (readelf, objdump), clang (address sanitizer, c static analyzer), cmake, gcc (coverage report), gdb, git, valgrind.
+    *   Familiar with Linux (especially Debian-based distro) development tools, including autotools, binutils (readelf, objdump), clang (address sanitizer, c static analyzer), cmake, gcc (coverage report), gdb, git, valgrind.
     *   Familiar with Windows development tools, including hiew, GFlags, ollydbg, process explorer, process monitor, windbg.
 
 # Working History
