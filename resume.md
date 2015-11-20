@@ -70,7 +70,7 @@
 
 I has contributed to Debian since answering [Invitation and roll call: Debian IME Packaging Team (Call for help)](https://lists.alioth.debian.org/pipermail/pkg-ime-devel/2013-June/002985.html) from Osamu Aoki, who is one of leader of Debian Input Method Environment Packaging Team. As a team member of IME team, I help to maintain Chinese related input method packages like libchewing, ibus-chewing, gcin, hime, and so on. By doing so, I became Debian Maintainer at [Mini Debian Conf 2013](https://wiki.debian.org/DebianTaiwan/MiniDebConf2013). Beside input method related packages, I also create packages for programs I used when they are not in Debian yet.
 
-With [Kanru](https://nm.debian.org/public/person/koster)'s advocate, I applied Debian Developer after [OSDC 2014](http://www.osdc.tw/2014/). [The process](https://nm.debian.org/public/person/czchen) was finished and I become Debian Developer at Sep., 2015.
+With [Kanru](https://nm.debian.org/public/person/koster)'s advocate, I applied Debian Developer after [OSDC 2014](http://www.osdc.tw/2014/). [The process](https://nm.debian.org/public/person/czchen) was finished and [I become Debian Developer at Sep., 2015](https://nm.debian.org/public/person/czchen).
 
 The package I maintain are listed in [Packages overview for ChangZhuo Chen (陳昌倬)](http://qa.debian.org/developer.php?login=czchen).
 
