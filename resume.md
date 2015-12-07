@@ -21,7 +21,7 @@
 *   Programming Language:
     *   Mastery of C, C++, [python](https://www.python.org/).
     *   Familiar with [Bash](https://www.gnu.org/software/bash/), [Go](https://golang.org/), JavaScript, [Perl](https://www.perl.org/), [Scala](http://www.scala-lang.org/).
-    *   Experienced in [Haskell](https://www.haskell.org/), , LiveScript, Octave, R, Ruby.
+    *   Experienced in [Haskell](htqtps://www.haskell.org/), [LiveScript](http://livescript.net/), Octave, R, Ruby.
 *   Operating System:
     *   Familiar with Linux (especially Debian-based distro) development tools, including autotools, binutils (readelf, objdump), clang (address sanitizer, c static analyzer), cmake, gcc (coverage report), gdb, git, valgrind.
     *   Familiar with Windows development tools, including hiew, GFlags, ollydbg, process explorer, process monitor, windbg.
@@ -36,7 +36,7 @@
 
 ### Summary
 
-*   Implement and maintain retargeting tracking pipeline:
+*   Implement and maintain retargeting pipeline:
     *   SDK:
         *   Implement and maintain retargeting tracking SDK on Android/iOS platform based on [snowplow](http://snowplowanalytics.com/).
         *   Maintain SDK developed by [leftshift](http://leftshift.io/).
@@ -56,8 +56,8 @@
     *   Download datafeed and update to our database daily.
     *   Automatic generate datafeed if customer does not have it.
 
-*   Implement retargeting UI to help campaign manager handling campaign:
-    *   Unified UI to setup audience on Doubleclick and Facebook.
+*   Implement retargeting UI backend to help campaign manager handling campaign:
+    *   Provide API to setup audience on Doubleclick and Facebook.
 
 ## [Debian](http://www.debian.org/)
 
@@ -68,11 +68,23 @@
 
 ### Summary
 
-I has contributed to Debian since answering [Invitation and roll call: Debian IME Packaging Team (Call for help)](https://lists.alioth.debian.org/pipermail/pkg-ime-devel/2013-June/002985.html) from Osamu Aoki, who is one of leader of Debian Input Method Environment Packaging Team. As a team member of IME team, I help to maintain Chinese related input method packages like libchewing, ibus-chewing, gcin, hime, and so on. By doing so, I became Debian Maintainer at [Mini Debian Conf 2013](https://wiki.debian.org/DebianTaiwan/MiniDebConf2013). Beside input method related packages, I also create packages for programs I used when they are not in Debian yet.
+*   The packages I maintain is listed in [Packages overview for ChangZhuo Chen (陳昌倬)](http://qa.debian.org/developer.php?login=czchen).
 
-With [Kanru](https://nm.debian.org/public/person/koster)'s advocate, I applied Debian Developer after [OSDC 2014](http://www.osdc.tw/2014/). [The process](https://nm.debian.org/public/person/czchen) was finished and [I become Debian Developer at Sep., 2015](https://nm.debian.org/public/person/czchen).
+*   I am the member of the following teams:
 
-The package I maintain are listed in [Packages overview for ChangZhuo Chen (陳昌倬)](http://qa.debian.org/developer.php?login=czchen).
+    *   [Debian Chinese Team](https://alioth.debian.org/projects/chinese/)
+    *   [Debian-ezgo](https://alioth.debian.org/projects/debian-ezgo/)
+    *   [Debian Science](https://alioth.debian.org/projects/debian-science/)
+    *   [Font packaging for Debian](https://alioth.debian.org/projects/pkg-fonts/)
+    *   [Input Method Environment for Debian](https://alioth.debian.org/projects/pkg-ime/)
+    *   [LXQt packaging for Debian](https://alioth.debian.org/projects/pkg-lxqt/)
+    *   [Python Modules Packaging Team](https://alioth.debian.org/projects/python-modules/)
+    *   [Reproducible Builds](https://alioth.debian.org/projects/reproducible/)
+
+*   Advocate the following Debian Contributors to become Debian Maintainer:
+
+    *   [Alf Gaida](https://lists.debian.org/debian-newmaint/2015/09/msg00015.html)
+    *   [Shih-Yuan Lee](https://lists.debian.org/debian-newmaint/2015/09/msg00021.html)
 
 ## [g0v](http://g0v.tw/)
 
