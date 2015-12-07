@@ -2,6 +2,7 @@
 
 *   [antigen](https://github.com/zsh-users/antigen/commits?author=czchen)
 *   [api.ly](https://github.com/g0v/api.ly/commits?author=czchen)
+*   [atom-open-terminal-here](https://github.com/blueimp/atom-open-terminal-here/commits?author=czchen)
 *   [autoconf](http://www.gnu.org/software/autoconf/)
 *   [cabot-docker](https://github.com/shoonoise/cabot-docker/commits?author=czchen)
 *   [chef-cron](https://github.com/chef-cookbooks/cron/commits?author=czchen)
