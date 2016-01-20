@@ -64,32 +64,22 @@
       "organization": "Debian",
       "position": "Developer",
       "website": "https://www.debian.org/",
-      "startDate": "2015-09-11",
-      "endDate": "",
-      "summary": "",
-      "highlights": []
-    },
-    {
-      "organization": "Debian",
-      "position": "Maintainer",
-      "website": "https://www.debian.org/",
       "startDate": "2013-09-11",
-      "endDate": "2015-09-11"
+      "endDate": "2015-09-11",
+      "summary": "I joined Debian input method environment team to support Traditional Chinese input methods in jessie release. During the work, I found myself enjoying solving problems, and promoting Taiwan open source developer. Due to my contribution in Debian, I became Debian Developer at 2015-09-11."
     },
     {
       "organization": "g0v",
       "position": "Contributor",
       "website": "http://g0v.tw/",
       "startDate": "2013-05-01",
-      "endDate": "",
       "summary": "I has contributed to g0v projects since g0v.tw hackath2n. The projects I focus on are laweasyread and kuansim. The main jobs for me in these projects are to enhance web cralwer, sanitize data, design and implement RESTful APIs, and setup test/CI environment. Beside laweasyread and kuansum, I also help to setup test environment likes karma and protractor for other g0v projects."
     },
     {
       "organization": "Chewing Input Method (新酷音輸入法) Development",
       "position": "Developer",
-      "website": "",
+      "website": "http://chewing.im/",
       "startDate": "2012-09-09",
-      "endDate": "",
       "summary": "",
       "highlights": [
         "Setup ubuntu PPA to provide latest libchewing to user.",
