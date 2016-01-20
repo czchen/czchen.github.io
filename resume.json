@@ -2,8 +2,9 @@
   "basics": {
     "name": "陳昌倬 (ChangZhuo Chen)",
     "email": "czchen@czchen.org",
+    "phone": "+886922140016",
     "website": "http://czchen.info/",
-    "summary": "An open source coder",
+    "summary": "An open source coder.",
     "location": {
       "countryCode": "TW"
     },
@@ -98,12 +99,12 @@
       "summary": "",
       "highlights": [
         "Setup ubuntu PPA to provide latest libchewing to user.",
-        "Integrate with coveralls.io to generate coverage report for every push.",
-        "Write test cases to increase coverage rate to 81%.",
+        "Integrated with coveralls.io to generate coverage report for every push.",
+        "Wrote test cases to increase coverage rate to 81%.",
         "Cleanup system database and implement check mechanism to prevent incorrectly phrase slipping into system phrase database.",
-        "Implement dynamic programming based algorithm to enhance composition performance. The algorithm is around 800 times faster then previous brute force one.",
-        "Use sqlite3 to store user phrase.",
-        "Implement new user phrase editor based on Qt5.",
+        "Implemented dynamic programming based algorithm to enhance composition performance. The algorithm is around 800 times faster then previous brute force one.",
+        "Used sqlite3 to store user phrase.",
+        "Implemented new user phrase editor based on Qt5.",
         "Have a talk about libchewing in COSCUP 2013."
       ]
     }
@@ -126,12 +127,20 @@
   ],
   "skills": [
     {
+      "name": "Linux",
+      "level": "expert"
+    },
+    {
       "name": "C",
       "level": "expert"
     },
     {
       "name": "Python",
       "level": "expert"
+    },
+    {
+      "name": "Reverse Engineering",
+      "level": "familiar"
     },
     {
       "name": "C++",
