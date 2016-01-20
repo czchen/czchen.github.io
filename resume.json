@@ -1,6 +1,60 @@
 {
-    "basic" :{
-        "name": "陳昌倬",
-        "email": "czchen@czchen.org"
+  "basics": {
+    "name": "陳昌倬 (ChangZhuo Chen)",
+    "email": "czchen@czchen.org",
+    "website": "http://czchen.info/",
+    "summary": "An open source coder",
+    "location": {
+      "countryCode": "TW"
+    },
+    "profiles": [
+      {
+        "network": "Google",
+        "username": "czchen",
+        "url": "https://www.google.com/profiles/czchen"
+      },
+      {
+        "network": "Facebook",
+        "username": "changzhuo",
+        "url": "https://www.facebook.com/changzhuo"
+      }
+    ]
+  },
+  "volunteer": [
+    {
+      "organization": "Debian",
+      "position": "Developer",
+      "website": "https://www.debian.org/",
+      "startDate": "2015-09-11"
+    },
+    {
+      "organization": "Debian",
+      "position": "Maintainer",
+      "website": "https://www.debian.org/",
+      "startDate": "2013-09-11",
+      "endDate": "2015-09-11"
     }
+  ],
+  "education": [
+    {
+      "institution": "National Tsing Hua University",
+      "area": "Computer Science",
+      "studyType": "Master",
+      "startDate": "2004-09-01",
+      "endDate": "2006-07-01"
+    },
+    {
+      "institution": "National Chiao Tung University",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2000-09-01",
+      "endDate": "2004-07-01"
+    }
+  ],
+  "references": [
+    {
+      "name": "Debian packages overview for ChangZhuo Chen (陳昌倬)",
+      "reference": "https://qa.debian.org/developer.php?login=czchen"
+    }
+  ]
 }

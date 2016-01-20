@@ -2,7 +2,9 @@
 
 *   [antigen](https://github.com/zsh-users/antigen/commits?author=czchen)
 *   [api.ly](https://github.com/g0v/api.ly/commits?author=czchen)
+*   [atom-open-terminal-here](https://github.com/blueimp/atom-open-terminal-here/commits?author=czchen)
 *   [autoconf](http://www.gnu.org/software/autoconf/)
+*   [cabot-docker](https://github.com/shoonoise/cabot-docker/commits?author=czchen)
 *   [chef-cron](https://github.com/chef-cookbooks/cron/commits?author=czchen)
 *   [chewing-editor](https://github.com/chewing/chewing-editor/commits?author=czchen)
 *   [cmst](https://github.com/andrew-bibb/cmst/commits?author=czchen)
@@ -29,6 +31,7 @@
 *   [lxqt-session](https://github.com/lxde/lxqt-session/commits?author=czchen)
 *   [ly.g0v.tw](https://github.com/g0v/ly.g0v.tw/commits?author=czchen)
 *   [origami-pdf](https://code.google.com/p/origami-pdf/)
+*   [package-sync](https://github.com/lee-dohm/package-sync/commits?author=czchen)
 *   [pcman.js](https://github.com/pcman-bbs/pcman.js/commits?author=czchen)
 *   [PCManFM-Qt](https://github.com/lxde/pcmanfm-qt/commits?author=czchen)
 *   [PCManX](https://github.com/pcman-bbs/pcmanx/commits?author=czchen)
