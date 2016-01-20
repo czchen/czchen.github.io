@@ -1,11 +1,18 @@
 {
   "basics": {
     "name": "陳昌倬 (ChangZhuo Chen)",
+    "label": "",
+    "picture": "",
     "email": "czchen@czchen.org",
+    "phone": "",
     "website": "http://czchen.info/",
     "summary": "An open source coder",
     "location": {
-      "countryCode": "TW"
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "TW",
+      "region": ""
     },
     "profiles": [
       {
@@ -20,12 +27,54 @@
       }
     ]
   },
+  "work": [
+    {
+      "company": "Appier",
+      "position": "Senior Engineer",
+      "website": "http://www.appier.com/",
+      "startDate": "2015-11-10",
+      "highlights": [
+        "Implement and maintain retargeting pipeline.",
+        "Implement datafeed synchronization with our customer.",
+        "Implement retargeting UI backend to help campaign manager handling campaign."
+      ]
+    },
+    {
+      "company": "Trend Micro",
+      "position": "Senior Engineer",
+      "website": "http://www.trendmicro.tw/",
+      "startDate": "2010-12-13",
+      "endDate": "2015-11-10",
+      "highlights": [
+        "Accomplish Advanced Virus Training hold in Trend University and got certificate at 2012-11-11.",
+        "Setup apt mirror and puppet server to maintain Linux machines in virus lab (no internet connection).",
+        "Build valgrind for android to perform memory usage test and profiling.",
+        "Integrate legacy test scripts into new automatic test framework (SCTM).",
+        "Design an automatic process to handle virus samples."
+      ]
+    },
+    {
+      "company": "Qisda",
+      "position": "Senior Engineer",
+      "website": "http://qisda.com/",
+      "startDate": "2006-10-23",
+      "endDate": "2010-12-11",
+      "highlights": [
+        "Implement new SIM lock mechanism with TLV structure and RSA, SHA1 HMAC as cryptographic algorithms.",
+        "Develope full auto testing tool for GCF/PTCRB. Automatic rate increased from 20% to 80%.",
+        "Solve a long live (3 projects: Motorola W7, BenQ M7, Motorola VE538) stack overflow bug in battery management."
+      ]
+    }
+  ],
   "volunteer": [
     {
       "organization": "Debian",
       "position": "Developer",
       "website": "https://www.debian.org/",
-      "startDate": "2015-09-11"
+      "startDate": "2015-09-11",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
     },
     {
       "organization": "Debian",
@@ -33,6 +82,32 @@
       "website": "https://www.debian.org/",
       "startDate": "2013-09-11",
       "endDate": "2015-09-11"
+    },
+    {
+      "organization": "g0v",
+      "position": "Contributor",
+      "website": "http://g0v.tw/",
+      "startDate": "2013-05-01",
+      "endDate": "",
+      "summary": "I has contributed to g0v projects since g0v.tw hackath2n. The projects I focus on are laweasyread and kuansim. The main jobs for me in these projects are to enhance web cralwer, sanitize data, design and implement RESTful APIs, and setup test/CI environment. Beside laweasyread and kuansum, I also help to setup test environment likes karma and protractor for other g0v projects."
+    },
+    {
+      "organization": "Chewing Input Method (新酷音輸入法) Development",
+      "position": "Developer",
+      "website": "",
+      "startDate": "2012-09-09",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Setup ubuntu PPA to provide latest libchewing to user.",
+        "Integrate with coveralls.io to generate coverage report for every push.",
+        "Write test cases to increase coverage rate to 81%.",
+        "Cleanup system database and implement check mechanism to prevent incorrectly phrase slipping into system phrase database.",
+        "Implement dynamic programming based algorithm to enhance composition performance. The algorithm is around 800 times faster then previous brute force one.",
+        "Use sqlite3 to store user phrase.",
+        "Implement new user phrase editor based on Qt5.",
+        "Have a talk about libchewing in COSCUP 2013."
+      ]
     }
   ],
   "education": [
@@ -49,6 +124,51 @@
       "studyType": "Bachelor",
       "startDate": "2000-09-01",
       "endDate": "2004-07-01"
+    }
+  ],
+  "awards": [],
+  "skills": [
+    {
+      "name": "C",
+      "level": "expert"
+    },
+    {
+      "name": "Python",
+      "level": "expert"
+    },
+    {
+      "name": "C++",
+      "level": "familiar"
+    },
+    {
+      "name": "bash",
+      "level": "familiar"
+    },
+    {
+      "name": "Go",
+      "level": "familiar"
+    },
+    {
+      "name": "Perl",
+      "level": "familiar"
+    },
+    {
+      "name": "Scala",
+      "level": "familiar"
+    },
+    {
+      "name": "Haskell",
+      "level": "beginner"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Mandarin",
+      "fluency": "native proficiency"
+    },
+    {
+      "language": "English",
+      "fluency": "professional working proficiency"
     }
   ],
   "references": [
