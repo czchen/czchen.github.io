@@ -1,18 +1,11 @@
 {
   "basics": {
     "name": "陳昌倬 (ChangZhuo Chen)",
-    "label": "",
-    "picture": "",
     "email": "czchen@czchen.org",
-    "phone": "",
     "website": "http://czchen.info/",
     "summary": "An open source coder",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "",
-      "countryCode": "TW",
-      "region": ""
+      "countryCode": "TW"
     },
     "profiles": [
       {
