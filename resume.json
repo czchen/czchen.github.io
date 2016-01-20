@@ -41,7 +41,7 @@
       "company": "Appier",
       "position": "Senior Engineer",
       "website": "http://www.appier.com/",
-      "startDate": "2015-11-10",
+      "startDate": "2014-11-10",
       "highlights": [
         "Implemented and maintained retargeting pipeline.",
         "Implemented datafeed synchronization with our customer.",
@@ -53,7 +53,7 @@
       "position": "Senior Engineer",
       "website": "http://www.trendmicro.tw/",
       "startDate": "2010-12-13",
-      "endDate": "2015-11-10",
+      "endDate": "2014-11-10",
       "highlights": [
         "Accomplished Advanced Virus Training hold in Trend University and got certificate at 2012-11-11.",
         "Setup apt mirror and puppet server to maintain Linux machines in virus lab (no internet connection).",
