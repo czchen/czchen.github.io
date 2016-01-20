@@ -1,0 +1,28 @@
+{
+    "basics": {
+        "name": "陳昌倬 (ChangZhuo Chen)",
+        "email": "czchen@czchen.org",
+        "url": "http://czchen.info/",
+        "summary": "An open source coder",
+        "location": {
+            "countryCode": "TW"
+        },
+        "profiles": [
+            {
+                "network": "Google",
+                "username": "czchen",
+                "url": "https://www.google.com/profiles/czchen"
+            },
+            {
+                "network": "Facebook",
+                "username": "changzhuo",
+                "url": "https://www.facebook.com/changzhuo"
+            },
+            {
+                "network": "Debian",
+                "username": "czchen",
+                "url": "https://qa.debian.org/developer.php?login=czchen"
+            }
+        ]
+    }
+}
