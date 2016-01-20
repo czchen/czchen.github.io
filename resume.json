@@ -9,6 +9,21 @@
     },
     "profiles": [
       {
+        "network": "GitHub",
+        "username": "czchen",
+        "url": "https://github.com/czchen"
+      },
+      {
+        "network": "stack overflow",
+        "username": "czchen",
+        "url": "http://stackoverflow.com/users/79816/czchen"
+      },
+      {
+        "network": "Debian",
+        "username": "czchen",
+        "url": "https://qa.debian.org/developer.php?login=czchen"
+      },
+      {
         "network": "Google",
         "username": "czchen",
         "url": "https://www.google.com/profiles/czchen"
@@ -152,12 +167,6 @@
     {
       "language": "English",
       "fluency": "professional working proficiency"
-    }
-  ],
-  "references": [
-    {
-      "name": "Debian packages overview for ChangZhuo Chen (陳昌倬)",
-      "reference": "https://qa.debian.org/developer.php?login=czchen"
     }
   ]
 }
