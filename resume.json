@@ -127,44 +127,45 @@
   ],
   "skills": [
     {
-      "name": "Linux",
-      "level": "expert"
+      "name": "Programming Language",
+      "keywords": [
+        "C",
+        "Python",
+        "C++",
+        "JavaScript",
+        "Go",
+        "Scala",
+        "bash",
+        "Perl",
+        "Haskell"
+      ]
     },
     {
-      "name": "C",
-      "level": "expert"
+      "name": "Backend Development",
+      "keywords": [
+        "Linux",
+        "nodejs",
+        "GraphQL",
+        "Spark",
+        "Spark Streaming"
+      ]
     },
     {
-      "name": "Python",
-      "level": "expert"
+      "name": "Database",
+      "keywords": [
+        "MySQL",
+        "PostgreSQL",
+        "MongoDB",
+        "Cassandra"
+      ]
     },
     {
-      "name": "Reverse Engineering",
-      "level": "familiar"
-    },
-    {
-      "name": "C++",
-      "level": "familiar"
-    },
-    {
-      "name": "bash",
-      "level": "familiar"
-    },
-    {
-      "name": "Go",
-      "level": "familiar"
-    },
-    {
-      "name": "Perl",
-      "level": "familiar"
-    },
-    {
-      "name": "Scala",
-      "level": "familiar"
-    },
-    {
-      "name": "Haskell",
-      "level": "beginner"
+      "name": "Malware Analysis",
+      "keywords": [
+        "reverse engineering",
+        "x86 assemble language",
+        "unpacking"
+      ]
     }
   ],
   "languages": [
