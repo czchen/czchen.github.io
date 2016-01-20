@@ -42,9 +42,9 @@
       "website": "http://www.appier.com/",
       "startDate": "2015-11-10",
       "highlights": [
-        "Implement and maintain retargeting pipeline.",
-        "Implement datafeed synchronization with our customer.",
-        "Implement retargeting UI backend to help campaign manager handling campaign."
+        "Implemented and maintained retargeting pipeline.",
+        "Implemented datafeed synchronization with our customer.",
+        "Implemented retargeting UI backend to help campaign manager handling campaign."
       ]
     },
     {
@@ -54,11 +54,11 @@
       "startDate": "2010-12-13",
       "endDate": "2015-11-10",
       "highlights": [
-        "Accomplish Advanced Virus Training hold in Trend University and got certificate at 2012-11-11.",
+        "Accomplished Advanced Virus Training hold in Trend University and got certificate at 2012-11-11.",
         "Setup apt mirror and puppet server to maintain Linux machines in virus lab (no internet connection).",
-        "Build valgrind for android to perform memory usage test and profiling.",
-        "Integrate legacy test scripts into new automatic test framework (SCTM).",
-        "Design an automatic process to handle virus samples."
+        "Built valgrind for Android to perform memory usage test and profiling.",
+        "Integrated legacy test scripts into new automatic test framework (SCTM).",
+        "Designed and implemented an automatic process to handle virus samples."
       ]
     },
     {
@@ -68,9 +68,9 @@
       "startDate": "2006-10-23",
       "endDate": "2010-12-11",
       "highlights": [
-        "Implement new SIM lock mechanism with TLV structure and RSA, SHA1 HMAC as cryptographic algorithms.",
-        "Develope full auto testing tool for GCF/PTCRB. Automatic rate increased from 20% to 80%.",
-        "Solve a long live (3 projects: Motorola W7, BenQ M7, Motorola VE538) stack overflow bug in battery management."
+        "Implemented new SIM lock mechanism with TLV structure and RSA, SHA1 HMAC as cryptographic algorithms.",
+        "Implemented full auto testing tool for GCF/PTCRB. Automatic rate increased from 20% to 80%.",
+        "Solved a long live (3 projects: Motorola W7, BenQ M7, Motorola VE538) stack overflow bug in battery management."
       ]
     }
   ],
