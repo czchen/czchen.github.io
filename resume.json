@@ -147,7 +147,9 @@
         "nodejs",
         "GraphQL",
         "Spark",
-        "Spark Streaming"
+        "Spark Streaming",
+        "Amazon Kinesis",
+        "Celery: Distributed Task Queue"
       ]
     },
     {
