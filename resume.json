@@ -43,6 +43,10 @@
       "website": "http://www.appier.com/",
       "startDate": "2015-11-10",
       "highlights": [
+        "[team][2015 Q1] Best business impact",
+        "[team][2015 Q1] Best idea of product",
+        "[team][2015 Q4] Best business impact",
+        "[team] Winner of first Appier Global Hack",
         "Implemented and maintained retargeting pipeline.",
         "Implemented datafeed synchronization with our customer.",
         "Implemented retargeting UI backend to help campaign manager handling campaign."
@@ -164,6 +168,9 @@
       "name": "Malware Analysis",
       "keywords": [
         "reverse engineering",
+        "hiew",
+        "OllyDbg",
+        "WinDbg",
         "x86 assemble language",
         "unpacking"
       ]
