@@ -62,7 +62,7 @@
         "Accomplished Advanced Virus Training hold in Trend University and got certificate at 2012-11-11.",
         "Setup apt mirror and puppet server to maintain Linux machines in virus lab (no internet connection).",
         "Built valgrind for Android to perform memory usage test and profiling.",
-        "Integrated legacy test scripts into new automatic test framework (SCTM).",
+        "Integrated legacy test scripts into new automatic test framework (Borland SCTM).",
         "Designed and implemented an automatic process to handle virus samples."
       ]
     },
@@ -99,11 +99,13 @@
       "position": "Developer",
       "website": "http://chewing.im/",
       "startDate": "2012-09-09",
-      "summary": "",
+      "summary": "I joined chewing development team to answer jserv's call for developer in COSCUP 2012. My focuses on libchewing are to provide a bug-free library, and to setup base infrastructure to support better developing experience.",
       "highlights": [
-        "Setup ubuntu PPA to provide latest libchewing to user.",
-        "Integrated with coveralls.io to generate coverage report for every push.",
+        "Integrated travis-ci to run unit test for every push.",
+        "Integrated coveralls.io with travis-ci to generate coverage report.",
+        "Integrated coverity with travis-ci to generate coverity result.",
         "Wrote test cases to increase coverage rate to 81%.",
+        "Setup ubuntu PPA to provide latest libchewing to user.",
         "Cleanup system database and implement check mechanism to prevent incorrectly phrase slipping into system phrase database.",
         "Implemented dynamic programming based algorithm to enhance composition performance. The algorithm is around 800 times faster then previous brute force one.",
         "Used sqlite3 to store user phrase.",
