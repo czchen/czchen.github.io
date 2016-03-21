@@ -85,7 +85,11 @@
       "position": "Developer",
       "website": "https://www.debian.org/",
       "startDate": "2013-09-11",
-      "summary": "I joined Debian input method environment team to support Traditional Chinese input methods in jessie release. During the work, I found myself enjoying solving problems, and promoting Taiwan open source developer. Due to my contribution in Debian, I became Debian Developer at 2015-09-11."
+      "summary": "I joined Debian input method environment team to support Traditional Chinese input methods in jessie release. During the work, I found myself enjoying solving problems, and promoting Taiwan open source developer. Due to my contribution in Debian, I became Debian Developer at 2015-09-11.",
+      "highlights": [
+        "Formed the pkg-lxqt team to maintain LXQt desktop environment.",
+        "Maintain Traditional Chinese related packages like input method (chewing, gcin/hime, zhuyin) and fonts (fonts-noto-cjk)."
+      ]
     },
     {
       "organization": "g0v",
