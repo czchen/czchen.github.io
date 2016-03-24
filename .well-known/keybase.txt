@@ -1,0 +1,77 @@
+==================================================================
+https://keybase.io/czchen
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://czchen.info
+  * I am czchen (https://keybase.io/czchen) on keybase.
+  * I have a public key with fingerprint BA04 346D C2E1 FE63 C790  8793 CC65 B0CD EC27 5D5B
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010163639d7befacedaef878ddab50411daadaee7175b16a90c8e36b05d0e2bb7f770a",
+            "fingerprint": "ba04346dc2e1fe63c7908793cc65b0cdec275d5b",
+            "host": "keybase.io",
+            "key_id": "cc65b0cdec275d5b",
+            "kid": "010163639d7befacedaef878ddab50411daadaee7175b16a90c8e36b05d0e2bb7f770a",
+            "uid": "319cb55a9f2ee5968d007c17c551fc19",
+            "username": "czchen"
+        },
+        "service": {
+            "hostname": "czchen.info",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1458793392,
+    "expire_in": 157680000,
+    "prev": "db80b893fc455fc2e4eea0b4c5271b3e4207f89559a2a0fe99b69548da57bf4e",
+    "seqno": 9,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owNCWmg2MUFZJlNZ+EbhjQAB0n///z///739f//b9u/e/+////v/7/dNvP3/b//3
+/3V4//fAAuuOOZg7qRVU8pvVHoE2gZGgmhjFPFHpMm0J6jamg0Yyn6kybTITGhMm
+TGiMR6PVGTCZNDaJtGg1DT1PRomZGiejSZM0aAaT1PQaYpjpkaA0AaBoaABpoAAB
+poaADQ0ZGjQBoA0AAGgDQDQAADQAABoGgMjQ000Gg1U/U0npkhiaAm0ak9RpppoA
+A0ADQA0AAABoAAAAAeoAAAAaADQaA0AANAAAamkEnkaj1GSNqDIwmgMgDQYg0wTa
+mnqP1JpkyBobSAGQ09TBANNA0yZNAyAeoDEDQ0aaaaYgNDQDQ4DAsMpLcoLw7l0f
+MiWg0qOeECsiAdAu/veH42QCBVr0QiA965ifS20GIkU18Xu1gkRD9GHNGWb4VSOX
+Xm3v1Kiz267Cx/8H/aAI7uY5rGH7wHhQbRfRQAWeggeo4wFORb5Ce4GxM4NDEmIT
+hopoinCvKQJTlk6IxzmI5HORgRGBIpnxXe8MVzGzXD9dHg+bfq8nPvnEqnnPc7va
+gMEEIMjmUbyCRDewqYoQ7DeHDJZSTCSqATCoRoYdQOxCA4ZBUMCNtUFwu/UQVUXa
+JswygKDczMLFSl+EBpQTOqodgoQWKChrptIaQoHqqSI1EltlCBHDAiBkEFewEhoI
+YB2GDg4f0FH9UBcOoBCBCDoYINhWCsyFNLoYaq4WOYysFgPx3zPnQ9jCIoGklAbl
+KRl0BMoB5fCgAaEBfIZ9gtbuKs0f0E/FWrap3DoHlw9pPmjB6E58OEqj8tl9E4q0
+/YZ2hQPfMsmoz6gsWBLxDX2quyTXa6k71kbQR6Dh6mCLSoYtiP8YgIB8jTEFA5my
+YS9yjFTGhv/I5DxFOWXipUON0gAwM2DgPeoDMpT9fygZhoCA2WParCYfVg+JNWIB
+/GmNHItkMAyChxkkVhENA9nVQDoLjxDKpGt0gNPgQFRsTRhBD4NheaOGhg4jMOlE
+6R8pbnIwfCOZmQQJCDV2EFQeEGCDoh0oZFt0CgXgH37xxNSDQIg5KhqRaddwN+y6
+ml9eaDiHm2y8cRB256RXFI/Pkv5Jlpyn3DTxcsJWdeJ++VPeUc2JIO9oSbiz1iWA
+piEaXWFnJZ1Qvx/3CRjaSg7riSqIf65k61VA9IgMRM9Dr5BThQJtJc3A16VP1BJd
+URIdZODEt54BmB87KDfehP/isBB90IIzWbeUWdpqTg3HgbVtTAgMAJYO8lvhxD+A
+QA/6kHHG8+SCjDEJPBlplGm8eA/d67YDOypSdPaLx0T7gUFIXbc4mwYu2j7hDcWu
+ahD1C/Sb1pglAbQFmyX+VycNlz03Ga4eAjy8T0qgG9c0WR3AgTCwxogGJFxRpCxt
+KScEqxg/txQI9Mq42jFaXtvHES1Ll546UJpg9kBczO0Zi95yfTNmuikM/DmiXRoS
+lwkPcX6wcdJyaV6qwrhlKRzOI25D5sk6r8SbUbCl0tsi+IyeunxWsaPw9Q2TeS8W
+rShXzNolt049usOMv/51L2R66Yc3YrEdvnA8B0bEDH2nANseRcSfWWQliZCW+rIo
+hQhiuv/i7kinChIfCNwxoA==
+=63fW
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/czchen
+
+==================================================================
